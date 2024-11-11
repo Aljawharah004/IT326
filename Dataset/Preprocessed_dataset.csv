@@ -1,0 +1,919 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+Young,1,1,Normal,High,0,High,0,No Depression,2,0
+Young,0,2,High,Low,0,High,0,Mild Depression,1,1
+Young,1,1,Low,High,0,Low,0,No Depression,2,0
+Young,0,0,Normal,Moderate,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,2,High,Low,0,Low,0,No Depression,2,0
+Young,1,2,Very Low,High,0,High,0,No Depression,2,0
+Young,0,1,Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,1,1
+Young,0,1,Very Low,High,0,Low,0,No Depression,2,0
+Young,0,2,Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Normal,Low,0,Low,1,Severe Depression,1,1
+Young,1,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,0,Normal,Moderate,0,Moderate,1,Mild Depression,1,1
+Young,0,2,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,1,Very Low,High,0,Moderate,0,Severe Depression,1,0
+Young,1,0,Very Low,Low,0,High,0,No Depression,1,1
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,1,0,Very Low,Moderate,0,Low,0,Mild Depression,1,1
+Young,1,1,Very Low,High,0,High,0,Severe Depression,1,1
+Young,0,3,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,1,Very Low,Low,0,Moderate,0,Mild Depression,1,0
+Young,0,1,Low,Moderate,0,High,0,No Depression,2,0
+Young,1,1,High,High,0,Moderate,1,Severe Depression,1,1
+Young,1,2,Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,2,Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,High,0,Low,1,Severe Depression,1,0
+Middle-Aged,1,1,Very Low,High,0,Low,0,No Depression,2,0
+Middle-Aged,0,1,Very Low,High,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Low,Low,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,2,High,High,0,Moderate,0,No Depression,1,1
+Middle-Aged,1,2,Low,Low,0,Low,0,No Depression,2,0
+Middle-Aged,1,0,Low,Moderate,0,Low,0,Severe Depression,1,1
+Young,1,0,Low,Low,0,Moderate,0,Severe Depression,1,1
+Young,0,1,High,Low,0,High,0,No Depression,2,0
+Young,1,1,Low,High,0,High,0,No Depression,2,0
+Old,1,0,Normal,High,1,Low,1,Severe Depression,1,1
+Young,0,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,0,1,Very Low,Low,1,Moderate,0,No Depression,2,0
+Young,0,0,High,Moderate,0,Moderate,1,Mild Depression,1,0
+Middle-Aged,0,1,High,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,2,Low,High,0,Low,1,No Depression,1,1
+Young,1,1,High,High,0,High,0,No Depression,2,0
+Middle-Aged,1,2,Normal,High,0,High,0,No Depression,2,0
+Young,1,0,Very Low,Low,0,Low,1,Mild Depression,1,1
+Old,1,2,Low,High,0,Low,1,Mild Depression,1,0
+Young,1,0,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,1,1,Normal,Moderate,0,High,0,No Depression,2,0
+Young,1,2,Very Low,High,0,High,0,Mild Depression,1,0
+Young,1,0,Very Low,High,0,High,0,No Depression,1,1
+Young,1,0,Low,Moderate,0,Low,1,Severe Depression,1,1
+Young,0,0,Very Low,Moderate,0,Low,1,Severe Depression,1,1
+Young,1,1,Normal,Moderate,1,Low,0,No Depression,2,0
+Young,0,1,Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,0,Low,Low,0,Moderate,1,Severe Depression,1,0
+Middle-Aged,0,1,High,Low,0,High,0,No Depression,2,0
+Young,1,0,Very Low,High,0,High,1,Severe Depression,1,1
+Middle-Aged,1,2,Low,Moderate,0,Moderate,0,No Depression,1,1
+Middle-Aged,1,0,High,High,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Very Low,High,0,Low,1,Mild Depression,1,1
+Young,1,1,Very Low,High,0,High,0,No Depression,2,0
+Young,0,2,High,High,0,High,0,No Depression,2,0
+Young,1,0,Normal,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,0,Very Low,High,0,Low,1,Mild Depression,1,1
+Young,0,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,0,1,Very Low,High,0,Moderate,0,No Depression,2,0
+Young,0,0,Normal,High,0,Moderate,0,No Depression,2,0
+Young,1,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Young,1,0,High,High,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Normal,High,0,Moderate,1,Mild Depression,1,1
+Young,1,1,Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,0,Very Low,Low,0,Moderate,0,No Depression,1,1
+Young,0,0,Very Low,Moderate,0,Low,0,No Depression,2,0
+Middle-Aged,1,0,Normal,High,0,Moderate,1,Severe Depression,1,1
+Young,1,2,High,Low,0,Low,0,No Depression,2,0
+Young,1,0,Very Low,High,0,Moderate,0,No Depression,1,1
+Young,0,0,Normal,Low,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Normal,Low,0,Moderate,1,No Depression,2,0
+Young,1,0,Low,Moderate,0,High,0,No Depression,1,1
+Middle-Aged,1,2,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,1,0,High,Moderate,0,Low,0,No Depression,1,1
+Middle-Aged,1,1,High,Low,0,High,0,No Depression,2,0
+Middle-Aged,1,0,High,Moderate,1,Low,1,Mild Depression,1,1
+Old,1,0,Normal,Low,0,Low,1,Mild Depression,1,1
+Old,1,0,High,High,1,Low,1,Severe Depression,1,1
+Middle-Aged,0,1,Normal,Moderate,0,Moderate,1,Severe Depression,1,0
+Young,1,3,Very Low,High,0,High,0,No Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,0,Low,1,Mild Depression,1,0
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,1,0,Low,High,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,0,High,High,0,Low,1,Severe Depression,1,1
+Young,0,2,Very Low,Low,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,High,0,Moderate,1,Severe Depression,1,1
+Young,1,1,High,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,2,High,Low,1,High,0,No Depression,2,0
+Middle-Aged,1,0,Very Low,Low,0,Moderate,0,No Depression,2,0
+Young,1,1,Low,High,0,Moderate,0,No Depression,2,0
+Old,1,0,Low,High,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,Low,Low,0,Low,0,No Depression,2,0
+Young,0,0,High,High,0,Moderate,0,Severe Depression,1,1
+Young,1,0,Very Low,High,1,High,1,Mild Depression,1,1
+Young,1,0,Very Low,Low,0,Low,0,No Depression,1,1
+Middle-Aged,1,1,Normal,High,1,Moderate,0,No Depression,2,0
+Young,0,0,Very Low,High,0,Low,0,No Depression,2,0
+Young,1,1,High,Moderate,0,High,0,No Depression,2,0
+Young,1,0,Normal,Low,0,Moderate,0,No Depression,2,0
+Young,1,1,High,Moderate,0,Low,0,No Depression,2,0
+Old,0,1,Low,Low,0,Low,0,Mild Depression,1,0
+Middle-Aged,1,0,High,High,0,Low,1,Severe Depression,1,1
+Young,1,0,Normal,High,1,Low,1,No Depression,2,0
+Young,1,1,Normal,High,0,Moderate,0,No Depression,2,0
+Young,0,2,Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,0,0,Very Low,Moderate,0,Moderate,1,Mild Depression,1,1
+Young,1,0,Very Low,High,0,High,0,No Depression,1,1
+Old,0,0,Low,High,1,Moderate,1,Severe Depression,1,1
+Young,0,3,Very Low,Low,0,High,0,No Depression,2,0
+Young,1,3,Normal,Low,0,High,0,No Depression,1,1
+Young,0,2,Normal,Moderate,1,High,0,No Depression,1,1
+Middle-Aged,0,2,Low,High,0,Moderate,0,No Depression,2,0
+Young,1,0,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,1,High,High,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,1,Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,Moderate,0,Low,0,No Depression,2,0
+Young,0,1,Low,Low,0,High,0,No Depression,2,0
+Young,0,0,Very Low,Low,0,High,0,Severe Depression,2,0
+Middle-Aged,0,1,Very Low,Moderate,1,Moderate,0,No Depression,2,0
+Young,1,2,Very Low,Moderate,0,High,1,Severe Depression,1,0
+Young,1,2,High,High,0,Moderate,0,No Depression,2,0
+Young,1,0,Very Low,Moderate,0,Moderate,1,No Depression,1,1
+Middle-Aged,1,0,High,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Old,0,0,Low,High,0,Low,1,Mild Depression,1,0
+Young,1,2,Very Low,High,0,High,0,No Depression,1,1
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,1,1,Very Low,Moderate,0,Moderate,0,Severe Depression,2,0
+Middle-Aged,1,0,Normal,Low,0,Low,1,No Depression,1,1
+Young,1,0,High,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,High,High,0,Low,1,Severe Depression,1,1
+Young,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Young,1,0,High,High,0,High,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,0,1,Very Low,High,0,Moderate,0,Mild Depression,1,1
+Young,1,0,Very Low,High,0,Moderate,0,No Depression,2,0
+Young,1,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,1,1,Very Low,Low,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,High,1,Low,1,Mild Depression,1,1
+Young,1,1,Low,Moderate,0,Low,0,No Depression,2,0
+Young,1,1,Very Low,Low,0,Low,0,No Depression,2,0
+Young,1,1,Low,High,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,0,Very Low,High,0,Moderate,0,No Depression,2,0
+Young,1,1,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,High,High,1,Moderate,1,Severe Depression,1,1
+Young,1,0,Very Low,Low,0,Moderate,1,Mild Depression,1,1
+Young,1,0,Normal,Low,0,Moderate,0,No Depression,2,0
+Young,1,0,Low,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,High,Low,0,Moderate,0,Mild Depression,2,0
+Old,1,0,Normal,High,1,Low,1,No Depression,1,1
+Young,1,0,Low,Moderate,0,Low,1,No Depression,1,1
+Young,1,1,High,High,0,High,0,No Depression,2,0
+Young,1,1,Very Low,Low,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,1,Normal,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,3,Normal,High,1,High,0,Severe Depression,1,1
+Young,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,1,1
+Young,1,1,Normal,Moderate,0,Low,0,No Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,0,Low,0,No Depression,2,0
+Middle-Aged,1,2,Normal,Low,0,High,0,No Depression,2,0
+Young,1,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,1,2,Normal,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Normal,High,0,High,0,No Depression,2,0
+Young,1,2,Normal,Low,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Normal,High,0,Moderate,1,Severe Depression,1,1
+Young,1,0,Normal,High,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,0,Low,0,Severe Depression,1,1
+Old,1,1,Normal,High,0,Moderate,0,No Depression,2,0
+Young,1,2,Low,Low,0,Moderate,0,No Depression,2,0
+Young,0,0,Low,Moderate,0,Low,0,No Depression,2,0
+Middle-Aged,1,0,Low,Moderate,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Young,1,0,Very Low,Moderate,0,Moderate,1,Mild Depression,1,0
+Middle-Aged,0,1,High,High,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,2,High,Moderate,1,Low,0,No Depression,1,1
+Middle-Aged,1,1,Low,High,0,Low,0,No Depression,2,0
+Young,1,0,Very Low,Moderate,1,Moderate,1,Mild Depression,1,1
+Young,0,0,Very Low,High,0,Low,1,Mild Depression,1,0
+Middle-Aged,1,0,High,High,0,Low,1,Severe Depression,1,1
+Young,1,0,High,High,0,Low,0,No Depression,2,0
+Young,1,1,High,Moderate,0,Low,0,No Depression,2,0
+Young,1,1,Low,Moderate,0,High,0,No Depression,2,0
+Young,1,2,Normal,Low,0,Low,0,No Depression,2,0
+Young,0,1,Low,Low,0,High,0,No Depression,2,0
+Old,0,3,High,Low,0,Low,0,No Depression,2,0
+Young,1,0,Very Low,High,0,Moderate,0,Mild Depression,1,0
+Young,1,1,High,High,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,0,Very Low,Moderate,0,Low,1,No Depression,1,1
+Middle-Aged,0,3,Low,High,0,Low,0,Mild Depression,1,0
+Young,1,3,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,2,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,2,High,Low,0,Moderate,0,No Depression,2,0
+Young,0,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Low,Low,0,Low,0,No Depression,2,0
+Young,1,0,High,Moderate,0,Moderate,1,No Depression,2,0
+Young,1,1,Very Low,High,0,High,0,No Depression,2,0
+Young,1,1,Very Low,High,0,Moderate,0,No Depression,1,1
+Young,1,1,Low,Low,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,Moderate,0,Moderate,0,No Depression,1,1
+Young,1,0,Very Low,High,1,Low,0,No Depression,1,1
+Young,0,2,Normal,High,0,Moderate,1,No Depression,1,1
+Middle-Aged,1,2,Low,High,0,Moderate,1,Mild Depression,2,0
+Middle-Aged,0,2,Low,Moderate,0,High,0,No Depression,2,0
+Young,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Young,0,3,High,Moderate,0,High,0,No Depression,2,0
+Young,1,0,Very Low,High,0,Moderate,0,No Depression,1,1
+Middle-Aged,1,2,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Normal,Low,0,Moderate,0,No Depression,2,0
+Young,1,1,Normal,High,0,High,0,No Depression,2,0
+Young,1,0,Low,Moderate,0,Low,0,No Depression,1,1
+Middle-Aged,0,0,High,High,0,Moderate,1,Mild Depression,1,1
+Young,0,2,Very Low,Low,0,Low,0,No Depression,2,0
+Young,1,2,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,High,1,Moderate,0,No Depression,2,0
+Young,1,0,High,High,0,Moderate,0,No Depression,1,1
+Middle-Aged,1,2,Very Low,Low,0,Moderate,0,No Depression,2,0
+Young,1,0,Very Low,Low,0,Moderate,1,Severe Depression,1,1
+Young,1,1,Very Low,High,0,High,0,No Depression,2,0
+Young,0,0,Low,Low,0,High,0,No Depression,2,0
+Young,1,0,Low,High,0,High,0,No Depression,2,0
+Young,1,2,Low,High,0,High,0,No Depression,2,0
+Young,0,1,Very Low,High,0,Moderate,0,No Depression,2,0
+Young,1,0,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,1,Normal,High,0,Moderate,0,No Depression,2,0
+Young,1,1,Very Low,Moderate,0,High,1,Mild Depression,1,0
+Young,1,0,Very Low,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,3,Normal,High,0,Moderate,0,No Depression,1,1
+Young,1,0,High,High,0,Low,1,Severe Depression,1,1
+Young,1,0,High,Low,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,High,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,High,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,1,High,High,1,Moderate,1,Severe Depression,1,1
+Young,0,1,Very Low,High,0,Low,0,No Depression,2,0
+Young,1,0,High,High,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,3,Very Low,Low,0,Moderate,0,Severe Depression,2,0
+Middle-Aged,1,2,Very Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Young,1,0,Low,High,1,Moderate,1,Severe Depression,0,1
+Young,1,0,Low,Moderate,0,Moderate,1,Mild Depression,1,1
+Young,1,0,Low,High,0,Low,1,Mild Depression,1,1
+Young,1,0,Normal,High,0,Moderate,0,No Depression,1,1
+Young,1,0,Very Low,High,0,Low,0,Severe Depression,1,1
+Old,1,0,Low,High,0,Low,1,No Depression,2,0
+Old,1,1,Normal,High,0,High,0,Mild Depression,2,0
+Middle-Aged,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Middle-Aged,0,2,Very Low,High,0,Moderate,0,No Depression,2,0
+Middle-Aged,0,1,Low,High,0,Moderate,0,No Depression,2,0
+Young,1,2,High,Low,0,High,0,No Depression,2,0
+Middle-Aged,0,2,High,Moderate,0,Low,0,Mild Depression,2,0
+Middle-Aged,0,1,Low,High,0,High,0,No Depression,2,0
+Young,1,1,Normal,High,0,High,1,No Depression,2,0
+Middle-Aged,0,1,Very Low,Moderate,0,Moderate,0,Mild Depression,2,0
+Young,1,0,Very Low,Moderate,0,Low,1,No Depression,1,1
+Old,1,0,Low,Low,0,Low,0,No Depression,1,1
+Young,1,2,Normal,Low,0,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,1,High,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,High,0,Low,1,Mild Depression,1,1
+Young,1,1,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,0,Low,Moderate,0,Low,1,Mild Depression,1,1
+Young,0,2,Low,Moderate,0,Moderate,0,Severe Depression,1,0
+Young,1,0,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,2,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,0,1,High,High,0,High,0,No Depression,2,0
+Old,1,2,High,Moderate,0,Low,0,No Depression,2,0
+Middle-Aged,1,2,Normal,Low,0,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,0,High,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,0,0,High,High,0,Moderate,1,Mild Depression,1,0
+Middle-Aged,0,1,Low,High,0,High,0,No Depression,2,0
+Old,1,2,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,1,0,High,Moderate,0,Low,0,Severe Depression,1,1
+Middle-Aged,0,2,Low,Moderate,0,High,1,Severe Depression,2,0
+Middle-Aged,0,1,Very Low,High,0,High,0,No Depression,2,0
+Young,1,0,Normal,High,0,High,0,No Depression,2,0
+Middle-Aged,0,2,Very Low,Low,0,Low,0,No Depression,2,0
+Old,1,0,Normal,Low,0,Moderate,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,Low,0,Moderate,0,No Depression,2,0
+Young,0,1,Normal,High,0,High,0,Severe Depression,2,0
+Young,1,1,Very Low,Low,0,High,0,No Depression,2,0
+Young,1,2,Very Low,Moderate,0,Moderate,0,No Depression,2,0
+Young,0,1,Normal,High,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Low,Low,0,Moderate,0,No Depression,2,0
+Old,1,0,Very Low,Low,0,Low,1,No Depression,1,1
+Young,1,3,Very Low,Low,1,Moderate,0,Mild Depression,2,1
+Old,1,0,Very Low,Low,1,Low,1,Severe Depression,2,1
+Young,1,0,High,Low,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Very Low,Low,1,Moderate,1,Severe Depression,2,1
+Middle-Aged,1,0,Very Low,Low,1,Low,0,No Depression,1,1
+Young,1,0,Very Low,Low,1,Moderate,0,Severe Depression,2,1
+Old,1,0,High,Low,1,Moderate,0,Mild Depression,1,1
+Middle-Aged,1,1,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Low,Low,1,Low,0,Severe Depression,2,1
+Old,0,0,Very Low,Low,1,Low,1,Severe Depression,0,1
+Middle-Aged,1,0,Very Low,Low,1,Moderate,0,Severe Depression,1,1
+Middle-Aged,0,0,Very Low,Low,1,Moderate,1,Severe Depression,2,1
+Middle-Aged,1,0,Very Low,Low,1,High,0,Mild Depression,1,1
+Middle-Aged,1,1,Low,Low,0,Low,0,Mild Depression,0,0
+Middle-Aged,1,0,Very Low,Low,1,Moderate,0,Mild Depression,2,1
+Middle-Aged,1,0,Very Low,Low,1,High,0,Mild Depression,0,1
+Old,1,0,High,Low,0,High,0,Mild Depression,2,0
+Old,1,0,Low,Low,1,Low,0,Mild Depression,2,1
+Young,1,0,Low,Low,1,High,0,Severe Depression,2,1
+Young,1,0,Very Low,Low,1,High,0,Mild Depression,2,1
+Middle-Aged,1,0,Very Low,Low,0,Moderate,1,Severe Depression,0,0
+Old,1,1,High,Low,1,Low,0,Severe Depression,2,1
+Middle-Aged,1,2,Very Low,Low,1,Moderate,0,Mild Depression,1,1
+Middle-Aged,1,0,Normal,Low,1,Low,1,Severe Depression,2,1
+Old,1,0,Low,Low,1,Low,0,Severe Depression,1,1
+Old,1,0,High,Low,1,Moderate,0,Severe Depression,2,1
+Old,1,2,Low,Low,1,High,0,Severe Depression,1,1
+Old,1,0,Very Low,Low,1,Low,0,No Depression,1,1
+Young,0,0,Very Low,Low,1,High,0,Severe Depression,2,1
+Old,1,0,Very Low,Low,1,Moderate,1,Severe Depression,0,1
+Young,1,0,Very Low,Low,1,Moderate,0,No Depression,1,1
+Young,1,0,Very Low,Low,1,Moderate,1,No Depression,0,1
+Young,1,2,Very Low,Low,0,Moderate,0,No Depression,2,0
+Old,1,0,Low,Low,1,Low,1,Mild Depression,2,1
+Middle-Aged,1,0,Very Low,Low,1,Low,1,Mild Depression,1,1
+Old,1,0,Low,Low,1,Moderate,1,Mild Depression,0,1
+Old,1,2,Very Low,Low,1,Moderate,0,Severe Depression,2,1
+Middle-Aged,1,0,Very Low,Low,1,Low,0,No Depression,2,1
+Young,1,2,Very Low,Low,0,High,0,No Depression,2,0
+Young,1,0,Very Low,Low,1,Moderate,0,No Depression,2,1
+Middle-Aged,1,0,Low,Low,1,High,0,No Depression,2,1
+Old,1,3,Very Low,Low,1,Moderate,0,No Depression,1,1
+Old,1,2,High,Low,0,Low,0,Severe Depression,1,0
+Old,1,0,High,Low,1,High,0,Severe Depression,2,1
+Old,1,0,Normal,Low,1,Moderate,0,Severe Depression,2,1
+Old,0,0,Very Low,Low,1,Moderate,0,Mild Depression,0,1
+Young,1,0,Very Low,Low,1,Low,0,Severe Depression,0,1
+Old,1,0,Very Low,Low,1,Low,1,Severe Depression,0,1
+Old,1,0,Very Low,Low,1,Low,0,Severe Depression,1,1
+Middle-Aged,1,0,Low,Low,1,Low,0,No Depression,1,1
+Middle-Aged,1,0,Very Low,Low,1,Low,0,No Depression,1,1
+Old,1,0,Normal,Low,0,Moderate,0,No Depression,1,1
+Old,1,0,Very Low,Low,0,Low,0,No Depression,1,1
+Young,1,0,Very Low,Low,1,Moderate,0,No Depression,1,1
+Old,1,0,Normal,Low,0,Low,1,Severe Depression,1,1
+Young,1,0,Very Low,Low,1,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,Very Low,Low,1,Low,0,No Depression,1,1
+Young,1,0,Normal,Low,0,Moderate,1,Mild Depression,2,1
+Middle-Aged,1,0,Very Low,Low,0,Low,1,No Depression,0,1
+Middle-Aged,1,0,Low,Low,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,Very Low,Low,0,Low,0,Mild Depression,2,1
+Old,1,3,High,Low,0,Low,0,No Depression,1,1
+Young,1,0,Very Low,Low,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,Very Low,Low,0,Low,0,No Depression,1,1
+Young,1,2,Very Low,Low,0,Moderate,1,No Depression,1,1
+Middle-Aged,1,2,Very Low,Low,0,Low,0,No Depression,1,1
+Old,1,2,High,Low,0,Low,1,No Depression,1,1
+Young,1,0,High,Low,0,Low,1,No Depression,1,1
+Middle-Aged,1,2,High,Low,0,Low,0,No Depression,1,1
+Middle-Aged,1,0,Very Low,Low,0,Moderate,0,No Depression,1,1
+Middle-Aged,1,2,Very Low,Low,0,Low,0,No Depression,1,0
+Old,0,0,High,Low,0,Moderate,1,Mild Depression,1,1
+Old,1,0,High,Low,0,Low,1,Severe Depression,1,1
+Old,1,0,Normal,Low,0,Low,1,No Depression,2,1
+Middle-Aged,1,0,Normal,Low,0,Low,1,Severe Depression,1,1
+Old,1,0,High,Low,0,Low,1,Severe Depression,1,1
+Old,1,0,Normal,Low,0,Low,1,Mild Depression,2,1
+Old,1,0,High,Low,0,Low,1,Severe Depression,1,1
+Old,1,0,High,Low,0,Low,1,No Depression,2,1
+Old,1,0,Normal,Low,0,Low,1,Mild Depression,1,1
+Old,1,0,Low,Low,0,Low,1,No Depression,0,1
+Old,0,2,High,Low,0,Low,0,No Depression,2,1
+Young,1,2,High,Low,0,Low,1,Mild Depression,1,1
+Old,1,0,High,Low,1,Low,0,Mild Depression,1,1
+Old,1,0,Normal,Low,1,High,1,Severe Depression,1,1
+Young,1,0,Very Low,Low,0,High,1,No Depression,2,1
+Old,1,0,High,Low,0,Low,1,Mild Depression,1,1
+Young,1,0,Very Low,Low,0,Low,1,Mild Depression,1,1
+Young,1,0,Very Low,Low,0,Moderate,1,Severe Depression,1,1
+Young,0,0,Very Low,Low,0,High,0,No Depression,1,1
+Middle-Aged,1,0,Very Low,Low,0,High,0,No Depression,1,1
+Old,1,0,High,Low,0,Low,1,No Depression,1,1
+Young,1,0,High,Low,0,Low,1,No Depression,1,1
+Middle-Aged,1,0,Low,Low,0,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Normal,Low,0,Low,0,No Depression,1,1
+Old,1,0,High,Low,1,Moderate,0,Mild Depression,1,1
+Middle-Aged,1,0,Normal,Low,0,Low,0,No Depression,1,1
+Old,1,0,Very Low,Low,0,Low,1,No Depression,1,1
+Old,1,0,Low,Low,0,Low,0,No Depression,1,1
+Young,1,0,High,Low,1,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,High,Low,1,Low,1,Severe Depression,1,1
+Young,1,0,Normal,Low,1,Moderate,0,No Depression,1,1
+Old,0,3,Normal,Low,1,Moderate,0,No Depression,1,1
+Middle-Aged,1,0,High,Low,1,Low,1,No Depression,1,1
+Middle-Aged,1,0,High,Low,1,Low,1,Mild Depression,2,1
+Old,1,2,High,Low,1,Low,0,No Depression,1,1
+Young,0,0,High,Low,1,Low,0,No Depression,1,1
+Middle-Aged,1,0,Low,Low,1,High,0,No Depression,1,1
+Old,1,0,High,Low,1,Low,0,Mild Depression,1,1
+Middle-Aged,1,0,Normal,Low,1,Moderate,1,Severe Depression,1,1
+Young,1,2,Very Low,Low,1,Low,1,No Depression,1,1
+Young,1,0,Very Low,Low,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Normal,Low,1,Low,1,No Depression,1,1
+Old,1,0,Very Low,Low,1,Low,1,No Depression,1,1
+Old,1,0,Very Low,Low,1,Low,0,No Depression,1,1
+Middle-Aged,1,2,High,Low,1,Low,1,No Depression,1,1
+Old,1,0,High,Low,1,Low,0,Severe Depression,1,1
+Middle-Aged,1,0,High,Low,1,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,0,Low,Low,1,Low,1,Mild Depression,1,1
+Middle-Aged,1,2,Low,Low,1,Low,0,No Depression,1,1
+Middle-Aged,1,0,Low,Low,1,Low,1,Severe Depression,1,1
+Old,0,0,High,Low,1,Low,0,No Depression,1,1
+Old,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Young,1,0,Low,Moderate,0,Moderate,0,No Depression,2,0
+Old,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,0,1
+Middle-Aged,1,0,High,Moderate,0,Moderate,1,Severe Depression,2,1
+Old,1,2,Very Low,Moderate,1,Low,1,Severe Depression,1,0
+Old,1,2,Very Low,Low,0,Low,0,No Depression,2,0
+Old,1,0,High,Moderate,1,Low,1,No Depression,1,1
+Old,1,2,High,Low,0,Moderate,1,Severe Depression,1,0
+Old,1,2,Very Low,Low,1,Moderate,1,Severe Depression,2,1
+Old,1,1,High,High,1,High,0,Mild Depression,1,1
+Middle-Aged,1,1,Low,Low,0,Moderate,0,No Depression,2,0
+Old,1,0,Normal,Low,0,Low,1,Mild Depression,1,1
+Old,1,0,Very Low,Low,0,Low,1,Mild Depression,1,1
+Old,1,2,Normal,Low,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,Low,Low,1,Moderate,1,Mild Depression,1,1
+Old,1,0,Very Low,Moderate,0,Low,0,No Depression,2,0
+Old,1,0,High,Low,0,Low,1,Severe Depression,0,1
+Young,1,0,Very Low,Moderate,0,Low,1,Severe Depression,1,1
+Old,1,0,Low,Low,0,Low,0,Severe Depression,0,0
+Old,1,0,High,Low,0,Low,1,No Depression,2,0
+Middle-Aged,1,0,Very Low,Low,0,Low,0,Mild Depression,2,1
+Old,1,0,Very Low,Low,1,Low,0,Severe Depression,1,1
+Old,1,2,Low,Low,0,Low,1,No Depression,1,1
+Old,1,2,Normal,Low,0,Low,0,Mild Depression,2,0
+Middle-Aged,1,2,Low,Low,0,High,0,Severe Depression,2,1
+Old,1,0,Low,Low,1,Moderate,0,Mild Depression,1,1
+Middle-Aged,1,0,Low,Low,1,Low,1,Mild Depression,1,1
+Old,1,0,Low,Low,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Very Low,Low,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,2,Normal,Moderate,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Low,Low,0,Low,1,Severe Depression,1,1
+Old,1,0,Low,Low,0,Low,1,Severe Depression,2,1
+Old,1,0,High,Moderate,1,Low,1,Mild Depression,1,1
+Middle-Aged,1,2,Very Low,Low,0,High,0,Severe Depression,1,1
+Middle-Aged,1,2,Low,Low,0,Low,1,Severe Depression,0,1
+Old,1,0,High,Low,0,Low,1,Mild Depression,1,1
+Old,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Old,1,0,Very Low,Low,0,Moderate,1,Severe Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,1,Low,1,Mild Depression,1,1
+Old,1,0,High,Low,0,Moderate,1,Severe Depression,2,0
+Old,1,2,Very Low,Low,0,Low,1,No Depression,1,1
+Young,1,0,Low,Low,1,High,0,No Depression,1,1
+Old,1,0,Normal,Low,1,Low,0,Severe Depression,1,1
+Young,1,0,Very Low,Low,0,Low,0,No Depression,2,0
+Middle-Aged,1,0,Normal,High,1,Low,1,Severe Depression,1,1
+Old,1,0,Normal,Low,0,Low,1,No Depression,1,1
+Old,1,0,Low,Moderate,0,Low,1,Severe Depression,0,1
+Middle-Aged,1,0,Low,Low,0,Low,0,No Depression,2,0
+Old,1,2,Normal,Low,0,Moderate,1,Severe Depression,0,1
+Young,1,2,Normal,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,2,Very Low,Low,0,Low,1,Severe Depression,1,1
+Old,0,1,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Old,1,0,High,Low,0,Low,1,Severe Depression,2,1
+Middle-Aged,1,1,Low,Moderate,1,High,0,Severe Depression,1,0
+Middle-Aged,1,0,Low,Low,0,Low,0,No Depression,1,1
+Old,1,0,Normal,Low,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,High,Low,1,Moderate,1,Severe Depression,1,1
+Old,1,2,High,High,1,Low,1,Severe Depression,1,1
+Old,1,1,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Old,1,0,High,Low,1,Low,1,No Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,1,Moderate,0,Mild Depression,2,0
+Old,1,0,Very Low,Low,1,Low,1,Severe Depression,0,1
+Middle-Aged,1,0,Low,High,1,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,2,High,Low,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,Low,Low,1,Low,1,Severe Depression,1,1
+Old,1,2,Normal,Low,1,Low,0,Severe Depression,0,1
+Old,1,3,High,High,1,Low,0,Severe Depression,2,1
+Middle-Aged,1,0,Very Low,Low,0,Low,1,Severe Depression,0,1
+Old,1,0,Normal,Low,0,Low,1,Mild Depression,1,1
+Old,1,1,Normal,Moderate,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,1,Very Low,Moderate,1,High,0,Mild Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,1,1
+Old,1,3,Normal,High,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,1,1
+Old,1,2,Very Low,Moderate,0,Low,1,Mild Depression,1,1
+Old,1,0,High,Moderate,1,Low,0,No Depression,1,1
+Young,1,3,Low,Low,0,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,2,Normal,High,0,Moderate,1,Severe Depression,1,1
+Old,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Old,0,0,High,High,0,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Normal,High,1,Low,0,Mild Depression,0,0
+Old,1,0,High,Moderate,0,Moderate,1,Severe Depression,0,1
+Old,1,0,High,High,1,Moderate,1,No Depression,1,1
+Old,1,0,Normal,High,0,Moderate,1,Mild Depression,1,1
+Old,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,0,1
+Old,1,0,Low,High,0,Moderate,1,Severe Depression,1,1
+Old,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,1,Moderate,0,Mild Depression,2,0
+Old,1,0,High,Moderate,1,Low,1,Severe Depression,0,1
+Middle-Aged,1,2,Normal,Moderate,1,Moderate,1,Mild Depression,1,1
+Old,1,0,Normal,Moderate,0,Low,1,Severe Depression,1,1
+Young,1,2,Very Low,Moderate,0,Low,1,No Depression,2,0
+Old,1,0,Very Low,Low,1,Moderate,0,Severe Depression,0,1
+Middle-Aged,1,0,Very Low,Moderate,0,Low,0,No Depression,1,1
+Old,1,0,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Old,1,0,High,High,1,Low,1,Severe Depression,1,1
+Young,1,2,Low,Low,0,High,0,No Depression,2,0
+Old,1,3,Very Low,High,0,Moderate,1,Severe Depression,1,1
+Young,1,0,Low,Low,0,Low,0,Mild Depression,2,1
+Old,1,2,Low,Low,1,High,0,Severe Depression,1,0
+Old,1,2,High,Low,1,Moderate,0,No Depression,1,1
+Old,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Young,1,2,Very Low,Low,1,Low,1,Mild Depression,0,1
+Old,1,0,Very Low,High,0,Low,1,Mild Depression,2,1
+Old,1,0,Low,Moderate,0,Moderate,0,Mild Depression,1,0
+Old,1,0,Very Low,High,0,Moderate,1,Severe Depression,0,1
+Young,1,0,High,High,0,Low,1,Mild Depression,2,1
+Old,1,0,Low,Low,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,High,Low,0,Moderate,0,No Depression,2,0
+Young,1,2,Low,Moderate,0,Moderate,0,Mild Depression,2,0
+Old,1,0,High,High,0,Low,1,Severe Depression,1,1
+Old,1,1,Normal,High,0,Moderate,0,Mild Depression,2,0
+Young,1,2,Normal,Low,0,Moderate,1,Severe Depression,1,1
+Old,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Young,1,0,Normal,Moderate,0,Moderate,1,Mild Depression,1,1
+Old,1,0,High,High,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Very Low,Low,1,Low,0,No Depression,1,1
+Old,1,0,Very Low,High,0,Moderate,1,Severe Depression,1,1
+Old,1,0,Low,Moderate,0,Moderate,1,Severe Depression,0,1
+Middle-Aged,1,0,Low,Low,0,Low,1,Mild Depression,1,1
+Old,1,2,Normal,Low,1,Low,1,Mild Depression,1,1
+Old,1,0,High,High,1,Moderate,1,Severe Depression,0,1
+Middle-Aged,1,0,Low,Moderate,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Very Low,Low,0,Low,0,No Depression,2,0
+Old,1,2,Normal,Moderate,0,Low,1,Mild Depression,1,1
+Old,1,2,Very Low,Low,0,Low,0,Severe Depression,0,1
+Middle-Aged,0,0,Normal,High,0,Low,1,Severe Depression,1,1
+Old,1,0,High,Low,0,Moderate,1,Severe Depression,0,1
+Old,0,1,Normal,High,1,Low,1,No Depression,2,0
+Young,1,0,Normal,High,0,Moderate,0,Mild Depression,2,0
+Young,1,2,Normal,Moderate,1,High,0,No Depression,1,1
+Old,1,3,High,Moderate,1,Low,0,Severe Depression,0,1
+Old,1,0,Very Low,High,0,Moderate,0,Severe Depression,2,1
+Old,1,3,Normal,Low,1,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,High,High,0,Low,0,Severe Depression,1,1
+Old,1,2,Very Low,Moderate,0,Low,0,No Depression,2,0
+Old,1,2,High,Moderate,0,Low,1,Severe Depression,1,1
+Old,1,3,High,Moderate,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,2,High,Low,1,High,0,Mild Depression,2,0
+Middle-Aged,1,2,High,Moderate,0,Low,1,No Depression,1,1
+Old,1,0,High,High,1,Low,1,Severe Depression,0,0
+Middle-Aged,1,2,Normal,Moderate,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,2,Normal,Moderate,0,Low,1,Severe Depression,1,1
+Old,1,0,Normal,High,0,Low,1,Severe Depression,0,1
+Middle-Aged,1,2,Normal,Moderate,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,1,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Old,1,0,Normal,High,0,High,1,Severe Depression,1,0
+Middle-Aged,1,0,Normal,Moderate,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,High,High,1,High,1,Severe Depression,1,1
+Old,1,0,High,High,0,Low,1,Severe Depression,1,1
+Young,1,0,High,Low,0,Moderate,1,Severe Depression,1,0
+Old,1,0,Low,Moderate,0,Low,1,No Depression,1,1
+Young,1,0,Very Low,High,0,Low,1,Severe Depression,0,1
+Middle-Aged,1,0,High,Moderate,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Low,Moderate,0,Low,1,Severe Depression,0,1
+Old,1,0,Normal,Low,1,Low,1,Severe Depression,1,1
+Old,1,0,High,Low,0,Moderate,1,Mild Depression,1,1
+Old,1,0,High,Low,1,Moderate,0,Severe Depression,1,1
+Old,1,0,High,Moderate,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,High,1,Moderate,1,Mild Depression,1,1
+Old,1,0,Normal,Low,0,Low,1,Severe Depression,1,1
+Old,1,0,High,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,High,Low,0,Low,1,Severe Depression,0,1
+Old,1,0,High,High,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,Low,1,Moderate,1,Mild Depression,1,1
+Young,1,0,Normal,Moderate,0,High,1,Severe Depression,2,1
+Old,1,0,Low,Moderate,1,Low,1,No Depression,1,1
+Old,1,2,High,High,0,Moderate,0,Mild Depression,2,0
+Old,1,0,High,Moderate,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,High,High,1,Low,0,Mild Depression,1,1
+Middle-Aged,1,0,Low,Moderate,0,Low,1,Severe Depression,1,1
+Young,1,2,Very Low,Moderate,0,High,0,Mild Depression,1,0
+Old,1,0,Normal,Moderate,0,Low,1,Severe Depression,1,1
+Old,1,2,Normal,Moderate,1,Low,0,No Depression,1,1
+Old,1,1,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Very Low,Moderate,0,Low,0,No Depression,2,0
+Old,1,0,High,High,1,Moderate,1,Severe Depression,0,1
+Old,1,0,Low,High,1,Moderate,0,No Depression,1,1
+Middle-Aged,1,0,High,High,1,Low,1,Mild Depression,2,1
+Old,1,0,Low,Low,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Low,High,0,Low,0,No Depression,1,1
+Middle-Aged,1,2,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Very Low,Moderate,0,Moderate,1,Severe Depression,0,1
+Middle-Aged,1,0,Low,Moderate,1,Low,0,Severe Depression,1,1
+Middle-Aged,1,0,Low,Moderate,0,Low,1,Mild Depression,1,0
+Old,1,2,Normal,High,0,Low,1,Severe Depression,1,1
+Old,1,2,Very Low,High,0,Low,1,No Depression,1,1
+Old,1,0,High,High,0,Low,1,Severe Depression,0,1
+Old,1,2,Normal,High,1,High,1,No Depression,2,0
+Middle-Aged,0,0,Very Low,High,1,Low,0,Mild Depression,2,0
+Old,1,0,High,High,1,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,High,High,1,Moderate,1,Severe Depression,1,1
+Old,1,0,High,Low,0,Moderate,1,No Depression,1,1
+Young,1,0,Normal,High,0,Moderate,0,No Depression,1,1
+Middle-Aged,0,0,Low,High,1,High,0,No Depression,1,1
+Old,1,3,Normal,Low,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,0,Low,Moderate,1,Low,0,No Depression,1,1
+Middle-Aged,1,0,Normal,High,1,Moderate,0,Mild Depression,2,0
+Old,1,1,Very Low,High,0,Low,1,No Depression,1,1
+Old,1,0,Low,High,0,Low,0,Severe Depression,1,1
+Old,0,2,Very Low,High,0,High,0,Severe Depression,1,0
+Middle-Aged,1,1,Low,High,0,Moderate,0,Mild Depression,2,1
+Old,1,0,Low,High,0,Low,1,Mild Depression,1,0
+Old,0,1,Very Low,High,0,Low,1,Mild Depression,2,0
+Old,1,0,Very Low,Low,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,1,2,Low,High,1,Moderate,1,Mild Depression,1,1
+Old,1,0,Very Low,Moderate,0,Moderate,1,Mild Depression,1,1
+Old,1,0,Normal,High,0,High,0,Mild Depression,1,1
+Old,0,0,High,High,0,High,0,Severe Depression,1,1
+Old,1,0,Normal,Moderate,0,High,0,Mild Depression,1,0
+Middle-Aged,1,0,High,Moderate,0,Low,1,No Depression,2,0
+Young,1,2,Normal,Moderate,0,High,0,No Depression,2,0
+Old,1,3,Normal,Moderate,0,Moderate,0,Severe Depression,1,1
+Middle-Aged,0,0,Low,High,0,High,0,No Depression,2,0
+Old,0,0,Very Low,Low,0,Low,0,Severe Depression,1,0
+Young,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,1,High,1,Severe Depression,0,1
+Old,1,3,Very Low,Moderate,0,Moderate,1,Severe Depression,1,0
+Young,1,3,Normal,Moderate,0,High,1,Severe Depression,2,0
+Old,1,0,Very Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Young,1,1,Low,Moderate,0,High,0,Mild Depression,1,0
+Young,1,0,Very Low,High,0,High,0,Mild Depression,1,0
+Young,1,0,Very Low,Moderate,0,Moderate,0,Mild Depression,2,0
+Middle-Aged,0,1,Normal,High,1,High,1,No Depression,2,0
+Young,0,2,Low,High,0,Moderate,0,Mild Depression,2,0
+Young,0,0,Normal,Moderate,0,High,1,No Depression,1,0
+Middle-Aged,0,2,Very Low,High,0,High,0,Mild Depression,2,0
+Middle-Aged,1,2,Very Low,Moderate,0,High,0,Severe Depression,1,1
+Old,0,2,Very Low,High,1,Moderate,0,No Depression,2,0
+Middle-Aged,1,2,Low,Moderate,0,Moderate,0,Mild Depression,1,1
+Old,1,0,High,Moderate,0,Moderate,0,Severe Depression,2,0
+Young,0,2,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,1,0,High,High,0,Moderate,1,Severe Depression,0,1
+Young,1,0,High,Moderate,0,Moderate,1,Mild Depression,1,1
+Young,1,0,Low,High,1,Moderate,1,No Depression,2,1
+Old,1,0,Normal,Moderate,0,Moderate,1,Severe Depression,2,1
+Old,1,3,High,High,0,Low,0,No Depression,2,1
+Young,1,2,Low,Low,0,Moderate,0,No Depression,2,0
+Young,1,0,Low,Moderate,0,High,0,No Depression,2,0
+Young,1,0,High,Moderate,0,High,0,No Depression,2,1
+Old,0,0,Low,Moderate,0,High,0,No Depression,2,0
+Young,1,2,Low,Moderate,0,High,1,Mild Depression,2,0
+Young,1,1,Very Low,Low,1,High,0,No Depression,2,0
+Old,1,2,Low,Moderate,1,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,2,Normal,Moderate,1,High,0,No Depression,2,0
+Young,1,2,Very Low,Low,0,Moderate,0,Mild Depression,2,1
+Young,1,0,Very Low,Low,0,High,0,No Depression,2,1
+Old,1,1,High,Moderate,0,Low,1,No Depression,1,1
+Old,0,0,High,Moderate,0,Low,0,Mild Depression,1,1
+Young,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,1,Low,Moderate,1,High,0,No Depression,2,0
+Old,0,2,Normal,High,1,High,0,Mild Depression,2,0
+Old,0,1,Normal,Low,0,High,0,No Depression,2,0
+Young,0,1,Low,Moderate,0,High,0,Mild Depression,1,0
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,1,0,Normal,Low,0,Low,1,Severe Depression,1,1
+Old,0,2,Very Low,Low,1,Low,0,No Depression,2,0
+Old,0,0,High,Moderate,0,Moderate,1,No Depression,1,1
+Old,1,1,Very Low,High,0,Low,0,Severe Depression,1,1
+Middle-Aged,1,2,High,Low,1,High,0,Mild Depression,2,0
+Middle-Aged,0,0,Low,High,0,Moderate,1,Mild Depression,1,1
+Young,1,2,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,0,3,High,Moderate,0,High,0,Mild Depression,2,0
+Old,1,3,High,Moderate,1,Moderate,0,Severe Depression,0,0
+Middle-Aged,1,0,High,High,0,Low,1,Mild Depression,1,1
+Middle-Aged,1,0,Normal,High,0,High,1,No Depression,2,0
+Middle-Aged,0,1,Normal,High,1,High,0,No Depression,2,1
+Young,0,2,Very Low,Moderate,0,Moderate,0,Mild Depression,1,0
+Young,1,2,Very Low,Moderate,0,High,0,No Depression,2,1
+Old,1,0,Very Low,High,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,0,0,Very Low,High,0,High,1,Mild Depression,2,0
+Old,1,1,High,Moderate,0,Moderate,0,No Depression,2,0
+Old,0,2,Normal,Low,0,Low,0,Mild Depression,1,0
+Old,0,0,Very Low,Moderate,0,Moderate,0,Mild Depression,2,0
+Young,1,0,High,High,0,Moderate,1,No Depression,1,1
+Young,1,0,Very Low,Moderate,0,Moderate,1,Severe Depression,1,0
+Young,0,2,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,0,2,Very Low,Moderate,0,High,0,No Depression,1,0
+Middle-Aged,1,1,Very Low,Moderate,0,High,0,Mild Depression,2,0
+Middle-Aged,1,0,High,Moderate,0,Low,0,Severe Depression,1,1
+Young,1,0,Very Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,High,High,0,Low,1,Mild Depression,2,1
+Young,1,2,Low,Moderate,0,High,0,Severe Depression,1,0
+Middle-Aged,1,0,Very Low,Moderate,0,Moderate,1,Severe Depression,1,0
+Young,1,3,High,Moderate,0,High,0,Mild Depression,2,0
+Old,1,1,Low,Moderate,1,Moderate,0,No Depression,2,0
+Old,1,3,High,High,0,Moderate,0,Severe Depression,0,0
+Young,0,1,Low,High,0,High,0,No Depression,2,0
+Young,1,0,High,Moderate,0,Moderate,0,Severe Depression,1,1
+Old,1,1,Normal,Moderate,0,High,1,No Depression,2,0
+Old,0,0,Low,High,0,High,0,No Depression,2,1
+Middle-Aged,1,0,Low,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Very Low,Moderate,0,Low,1,No Depression,1,1
+Middle-Aged,1,0,Low,Moderate,0,High,0,Mild Depression,2,1
+Young,1,0,Very Low,High,0,Low,1,Mild Depression,1,1
+Old,1,0,Very Low,High,0,High,0,Mild Depression,1,0
+Middle-Aged,1,0,Very Low,Moderate,0,High,0,Mild Depression,2,1
+Old,0,2,Normal,High,0,Moderate,0,Mild Depression,2,0
+Young,0,1,Very Low,Moderate,0,High,0,Mild Depression,2,0
+Young,0,2,Very Low,Low,0,High,0,Mild Depression,1,0
+Old,1,0,Very Low,Moderate,0,Low,0,Mild Depression,1,1
+Young,0,0,Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,High,High,1,Low,0,Mild Depression,1,1
+Old,1,0,Low,High,0,Moderate,0,Severe Depression,1,1
+Young,1,0,Low,High,0,High,0,Mild Depression,1,1
+Middle-Aged,1,2,Very Low,Moderate,0,Moderate,1,Mild Depression,1,0
+Old,0,0,High,High,0,High,0,Severe Depression,1,1
+Old,1,0,Normal,Low,0,High,1,No Depression,2,1
+Young,0,1,Very Low,Low,0,Moderate,0,No Depression,1,0
+Middle-Aged,0,0,High,High,0,Low,1,Severe Depression,1,1
+Young,1,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,0,0,High,High,0,High,0,No Depression,2,1
+Middle-Aged,0,2,Normal,High,1,High,0,No Depression,2,0
+Young,1,1,Very Low,High,0,High,0,No Depression,2,0
+Young,0,1,Normal,High,0,High,0,No Depression,1,0
+Young,1,0,Very Low,Moderate,0,Moderate,0,Mild Depression,2,1
+Middle-Aged,0,0,High,High,1,Moderate,1,Severe Depression,0,1
+Old,0,3,High,Moderate,0,Low,0,Severe Depression,0,0
+Middle-Aged,1,0,Low,High,1,Low,1,Severe Depression,0,1
+Young,1,2,Very Low,Low,0,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,0,Low,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,High,High,0,Low,1,Mild Depression,1,1
+Old,0,2,High,High,0,High,0,Mild Depression,2,0
+Middle-Aged,1,2,Low,High,0,High,0,Mild Depression,0,0
+Middle-Aged,0,2,High,Moderate,0,High,0,No Depression,2,0
+Old,1,0,Very Low,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,0,2,Normal,Low,0,High,0,Mild Depression,1,0
+Middle-Aged,1,1,Normal,Moderate,0,High,0,Mild Depression,2,0
+Old,1,0,Very Low,Moderate,1,High,1,Severe Depression,2,1
+Old,0,0,Very Low,High,0,High,1,Severe Depression,1,1
+Old,1,0,Very Low,Moderate,0,Moderate,1,Mild Depression,2,1
+Young,1,0,Normal,Moderate,0,High,0,No Depression,2,0
+Old,1,0,Very Low,Moderate,0,Low,1,Severe Depression,0,1
+Middle-Aged,1,2,High,Moderate,0,High,0,Severe Depression,2,0
+Young,0,2,High,Low,0,High,1,Severe Depression,0,0
+Old,0,2,High,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,Moderate,1,Moderate,1,Mild Depression,1,1
+Young,0,1,Very Low,Moderate,0,High,0,Mild Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,0,High,1,No Depression,2,0
+Old,1,0,High,Moderate,0,Moderate,0,Severe Depression,1,1
+Old,1,0,Normal,High,0,High,0,No Depression,2,0
+Young,1,2,Normal,Moderate,0,High,0,Mild Depression,1,1
+Middle-Aged,1,3,Low,Moderate,0,Low,1,Severe Depression,2,0
+Middle-Aged,1,1,High,High,0,High,0,No Depression,2,1
+Middle-Aged,1,0,Low,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Very Low,Moderate,0,High,0,No Depression,2,1
+Young,1,0,Very Low,Low,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,2,Normal,Moderate,0,High,0,Severe Depression,2,1
+Young,0,2,Very Low,High,0,High,1,No Depression,2,0
+Young,1,2,Very Low,Moderate,0,High,0,No Depression,2,0
+Young,0,2,Very Low,Moderate,0,High,0,Severe Depression,1,0
+Middle-Aged,0,2,Very Low,High,0,High,0,No Depression,2,0
+Old,0,0,Low,High,0,Low,0,Severe Depression,1,0
+Middle-Aged,0,2,Low,High,0,Moderate,0,Mild Depression,2,0
+Young,0,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Normal,Moderate,0,Low,1,Severe Depression,0,1
+Young,1,1,Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,3,Very Low,Low,0,High,0,Severe Depression,1,0
+Old,0,0,High,Moderate,1,High,1,Mild Depression,1,1
+Young,1,3,Very Low,Moderate,0,High,1,Severe Depression,1,1
+Old,0,0,High,Moderate,0,High,1,Severe Depression,1,1
+Middle-Aged,1,1,Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,High,0,Moderate,1,Severe Depression,1,1
+Young,1,0,Very Low,Moderate,0,High,0,No Depression,2,0
+Old,0,0,High,High,0,High,1,No Depression,2,0
+Young,0,0,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,2,Low,Low,1,High,0,Mild Depression,0,0
+Young,0,0,Normal,Moderate,0,High,1,Mild Depression,1,0
+Old,1,3,Normal,High,1,High,0,Severe Depression,1,1
+Old,1,3,High,Moderate,1,Moderate,0,Mild Depression,1,0
+Old,1,2,Normal,High,0,Moderate,0,Severe Depression,1,1
+Old,1,0,Very Low,High,0,Low,1,Mild Depression,1,1
+Old,0,2,Very Low,Moderate,0,Low,0,Severe Depression,1,0
+Young,1,3,Very Low,Low,0,High,0,No Depression,2,0
+Old,0,0,Normal,High,1,Low,0,Severe Depression,1,1
+Middle-Aged,1,0,Normal,High,0,Low,1,Severe Depression,1,1
+Young,1,2,High,Moderate,0,Moderate,0,Severe Depression,1,1
+Old,1,0,Low,High,1,High,0,Mild Depression,1,1
+Young,1,2,Low,Low,0,High,0,No Depression,2,0
+Young,1,2,Very Low,Moderate,1,High,0,Mild Depression,0,0
+Middle-Aged,0,0,Normal,High,0,Moderate,1,Severe Depression,1,1
+Young,1,0,Very Low,Low,0,High,0,No Depression,2,1
+Young,0,0,Very Low,High,0,Low,0,Mild Depression,1,0
+Middle-Aged,1,2,Low,Moderate,1,High,0,No Depression,2,0
+Young,1,2,Low,High,0,High,0,Severe Depression,2,0
+Middle-Aged,1,0,Normal,Low,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Very Low,Moderate,1,Moderate,0,Mild Depression,2,0
+Old,0,0,Normal,High,0,High,0,Mild Depression,1,0
+Old,1,2,High,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,Moderate,0,High,0,Mild Depression,2,0
+Old,1,0,High,Low,0,Low,1,Severe Depression,0,1
+Middle-Aged,1,1,Very Low,High,0,High,0,No Depression,2,0
+Young,1,0,Low,High,0,High,1,No Depression,2,1
+Young,1,2,Low,High,1,High,0,No Depression,2,0
+Middle-Aged,0,1,Normal,Moderate,0,High,0,Severe Depression,1,0
+Middle-Aged,0,0,Very Low,Moderate,0,Low,0,Mild Depression,1,0
+Middle-Aged,0,2,Very Low,Moderate,0,High,0,Severe Depression,1,0
+Old,0,3,Normal,Moderate,0,High,0,Severe Depression,2,0
+Old,1,0,Low,High,0,High,1,No Depression,2,1
+Old,1,2,Very Low,High,0,High,0,Mild Depression,2,0
+Middle-Aged,1,0,Low,High,0,High,0,No Depression,2,1
+Old,1,0,Low,High,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,Normal,High,0,High,1,Severe Depression,2,1
+Middle-Aged,1,0,High,High,0,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,3,High,High,1,High,0,Mild Depression,1,0
+Old,0,2,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,2,Very Low,Moderate,0,High,1,Mild Depression,1,0
+Old,1,2,Low,High,0,Moderate,1,Severe Depression,1,1
+Young,1,2,Low,Moderate,0,High,0,Severe Depression,0,0
+Old,1,3,High,High,0,High,0,Mild Depression,1,1
+Middle-Aged,1,2,Low,Moderate,1,High,0,Severe Depression,1,0
+Young,0,2,Low,Moderate,0,High,0,Mild Depression,1,0
+Middle-Aged,1,0,Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Young,1,1,Low,Moderate,0,High,0,No Depression,2,0
+Young,0,1,Low,Moderate,0,High,0,Severe Depression,2,0
+Old,0,2,Normal,High,0,High,0,No Depression,2,0
+Middle-Aged,1,2,Very Low,Moderate,0,High,1,No Depression,2,0
+Middle-Aged,1,2,Very Low,High,0,Moderate,0,Mild Depression,1,0
+Young,1,1,Very Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Very Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Old,1,0,Normal,High,0,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,2,High,Low,0,High,0,Severe Depression,2,0
+Old,1,0,Low,High,1,Moderate,1,Severe Depression,2,1
+Young,0,0,Normal,Low,0,High,0,Severe Depression,2,0
+Young,1,1,Normal,Moderate,0,Moderate,0,No Depression,1,0
+Old,0,2,Low,High,0,Low,0,Mild Depression,1,1
+Young,0,0,Normal,High,1,Moderate,1,Severe Depression,1,1
+Middle-Aged,0,3,High,High,1,High,0,Mild Depression,2,0
+Middle-Aged,1,3,Very Low,Low,0,High,0,No Depression,1,0
+Old,0,0,High,High,0,Moderate,1,Mild Depression,1,1
+Young,1,0,Very Low,Moderate,0,Moderate,0,Mild Depression,1,1
+Young,1,0,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,1,0,Low,High,0,High,1,No Depression,2,1
+Old,1,2,Low,Moderate,0,Moderate,0,Severe Depression,1,0
+Old,0,0,High,Low,0,Moderate,0,Severe Depression,0,1
+Middle-Aged,0,0,Normal,Moderate,0,High,0,No Depression,2,0
+Young,1,0,Very Low,Low,0,Low,1,Severe Depression,1,1
+Young,1,2,Normal,High,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,High,0,High,0,Mild Depression,2,0
+Old,1,2,High,High,1,Moderate,1,Severe Depression,1,1
+Young,1,2,Normal,High,0,High,0,No Depression,2,0
+Middle-Aged,0,0,Low,High,0,Moderate,0,Mild Depression,1,0
+Old,0,0,Normal,High,0,High,0,Severe Depression,0,1
+Middle-Aged,0,2,Normal,High,0,Moderate,0,Severe Depression,2,0
+Old,1,0,Low,High,0,Moderate,1,Severe Depression,2,1
+Old,1,0,Very Low,Moderate,0,High,0,Mild Depression,2,1
+Old,0,2,High,High,0,Moderate,0,Mild Depression,2,0
+Old,1,2,Normal,Low,0,High,0,Severe Depression,1,1
+Old,1,0,High,High,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,0,Very Low,Low,0,Low,0,Severe Depression,1,1
+Young,1,1,Low,Moderate,0,High,0,No Depression,2,0
+Young,1,0,Very Low,High,0,High,0,No Depression,2,1
+Middle-Aged,1,2,Very Low,Low,0,Low,0,Mild Depression,2,0
+Old,1,2,High,Moderate,1,High,0,Severe Depression,2,0
+Old,0,1,High,High,0,High,0,Mild Depression,2,0
+Old,1,2,High,Moderate,1,Moderate,1,Mild Depression,1,0
+Middle-Aged,1,0,Normal,High,0,Moderate,1,Mild Depression,1,1
+Old,1,2,Normal,High,0,High,0,No Depression,2,1
+Young,1,0,High,Moderate,0,High,0,Severe Depression,2,0
+Middle-Aged,0,2,Very Low,High,0,High,0,No Depression,2,0
+Old,1,0,Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,1,Very Low,High,0,High,0,Severe Depression,1,1
+Young,1,1,Low,High,0,High,0,Mild Depression,2,0
+Young,1,1,Very Low,Moderate,0,High,0,Mild Depression,0,1
+Middle-Aged,1,2,High,Moderate,1,High,0,Mild Depression,2,0
+Young,1,1,Very Low,High,0,High,0,No Depression,2,0
+Middle-Aged,0,1,Normal,High,0,High,0,Severe Depression,1,0
+Middle-Aged,1,0,Normal,Low,0,Moderate,0,Mild Depression,1,0
+Old,1,0,High,High,0,Low,1,Severe Depression,1,1
+Middle-Aged,0,2,Low,Moderate,0,Low,0,No Depression,2,0
+Middle-Aged,1,2,Normal,Moderate,0,High,0,No Depression,2,0
+Young,1,0,Normal,Moderate,1,Moderate,1,Mild Depression,1,1
+Middle-Aged,1,0,Low,Moderate,1,High,1,Mild Depression,1,1
+Old,1,3,Normal,Moderate,0,High,0,Mild Depression,2,1
+Old,1,3,High,Moderate,0,High,0,Mild Depression,1,0
+Old,0,2,High,High,0,High,0,No Depression,1,0
+Young,0,2,Normal,Moderate,0,High,0,No Depression,1,0
+Middle-Aged,1,1,High,Moderate,0,High,0,No Depression,2,1
+Middle-Aged,0,0,Low,Low,0,Moderate,0,Mild Depression,1,0
+Middle-Aged,1,0,Very Low,High,0,Moderate,1,Severe Depression,1,1
+Young,1,2,Low,High,0,High,0,No Depression,2,0
+Middle-Aged,0,0,Low,Moderate,0,Moderate,1,Severe Depression,1,1
+Young,1,1,Low,Low,0,High,0,No Depression,2,0
+Old,1,0,High,Moderate,0,High,0,No Depression,2,1
+Middle-Aged,1,0,Very Low,High,0,Moderate,0,Severe Depression,0,1
+Middle-Aged,0,0,High,Moderate,1,Moderate,1,Severe Depression,1,1
+Middle-Aged,1,1,Low,Moderate,0,Moderate,0,Mild Depression,1,0
+Middle-Aged,1,1,Low,Moderate,0,High,0,No Depression,2,0
+Middle-Aged,1,1,Very Low,Moderate,0,High,0,No Depression,0,0
+Old,1,2,High,Moderate,0,Moderate,0,Mild Depression,1,1
+Middle-Aged,0,1,Normal,High,0,High,0,Mild Depression,2,0
+Young,1,0,Very Low,Low,0,Moderate,1,Severe Depression,0,1
+Old,1,0,Normal,Low,0,Moderate,1,Severe Depression,2,1
+Old,0,0,Low,Low,0,Moderate,1,No Depression,1,1
+Young,1,1,Very Low,Low,0,High,0,No Depression,2,0
+Old,1,0,High,Low,1,Low,0,Mild Depression,1,1
+Middle-Aged,0,0,Normal,Moderate,0,Low,1,Mild Depression,1,1
+Young,1,3,Very Low,High,0,Moderate,0,Mild Depression,1,1
+Old,1,0,High,Low,1,Moderate,0,Severe Depression,1,1
+Middle-Aged,1,0,Low,Low,0,Low,1,Mild Depression,1,1
+Middle-Aged,0,1,Low,Moderate,0,High,0,No Depression,1,1
+Young,1,2,Normal,Low,0,High,0,No Depression,2,0
